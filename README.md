@@ -23,7 +23,6 @@ ayush.currentFocus  = listOf("Android Development", "Full-Stack Web", "DSA")
 
 - 🎓 **ECE Undergrad** at Sir MVIT, Bengaluru - CGPA **8.3**
 - 📱 **Android Developer**  Kotlin, Jetpack Compose, MVVM, Firebase
-- 🌐 **Full-Stack** - React, Next.js, Node.js, PostgreSQL
 - 🧠 Certified in **Generative AI** (Microsoft) & **Business Analysis** (LinkedIn)
 - 🚀 **E-Cell SMVIT** - Corporate Relations Co-Head, Startup Mela Organizer
 - 🌐 Portfolio: [thakur-027.github.io](https://thakur-027.github.io/)
