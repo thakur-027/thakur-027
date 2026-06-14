@@ -8,19 +8,6 @@
 
 ## 👨‍💻 About Me
 
-```kotlin
-val ayush = Developer(
-    name    = "Ayush Thakur",
-    college = "Sir M. Visvesvaraya Institute of Technology, Bengaluru",
-    degree  = "B.E. Electronics & Communication Engineering",
-    year    = "Pre-Final Year (Class of 2027)",
-    cgpa    = 8.3,
-    role    = "Corporate Relations Co-Head @ E-Cell SMVIT"
-)
-
-ayush.currentFocus  = listOf("Android Development", "Full-Stack Web", "DSA")
-```
-
 - 🎓 **ECE Undergrad** at Sir MVIT, Bengaluru - CGPA **8.3**
 - 📱 **Android Developer**  Kotlin, Jetpack Compose, MVVM, Firebase
 - 🧠 Certified in **Generative AI** (Microsoft) & **Business Analysis** (LinkedIn)
