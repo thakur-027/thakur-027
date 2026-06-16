@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 <a href="https://github.com/thakur-027/The-Blog-App">MealMind</a></h3>
+      <h3>🤖 <a href="https://github.com/thakur-027/zomathon-solution">MealMind</a></h3>
       <p>AI-powered meal recommendation system using GradientBoosting & LightGBM, integrated with Gemini API for natural language suggestions. Built for Zomathon Hackathon.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
