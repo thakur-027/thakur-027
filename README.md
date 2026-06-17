@@ -12,13 +12,13 @@
 - 📱 **Android Developer**  Kotlin, Jetpack Compose, MVVM, Firebase
 - 🧠 Certified in **Generative AI** (Microsoft) & **Android Development Using Kotlin** (Udemy)
 - 🚀 **E-Cell SMVIT** - Corporate Relations Co-Head, Startup Mela Organizer
-- 🌐 Portfolio: [thakur-027.github.io](https://thakur-027.github.io/)
+- 🌐 Portfolio: [thakur-027.github.io](https://ayush-thakur-one.vercel.app/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile Development
+### 📱 Android Development
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
