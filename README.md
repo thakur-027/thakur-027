@@ -10,7 +10,7 @@
 
 - 🎓 **ECE Undergrad** at Sir MVIT, Bengaluru - CGPA **8.3**
 - 📱 **Android Developer**  Kotlin, Jetpack Compose, MVVM, Firebase
-- 🧠 Certified in **Generative AI** (Microsoft) & **Business Analysis** (LinkedIn)
+- 🧠 Certified in **Generative AI** (Microsoft) & **Android Development Using Kotlin** (Udemy)
 - 🚀 **E-Cell SMVIT** - Corporate Relations Co-Head, Startup Mela Organizer
 - 🌐 Portfolio: [thakur-027.github.io](https://thakur-027.github.io/)
 
@@ -106,7 +106,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-thakur015)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thakur-027.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayush-thakur-one.vercel.app/)
 [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thakur_015)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush.thakur.015)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thakur-027)
