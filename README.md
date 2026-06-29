@@ -24,6 +24,11 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### 🌐 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🧑‍💻 Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -77,6 +82,16 @@
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3>🏦 <a href="https://github.com/thakur-027/bank-transaction-system-backend">Bank Transaction System</a></h3>
+      <p>A ledger-based banking backend where balances are derived from an immutable double-entry ledger instead of stored directly. Supports atomic, idempotent transfers via MongoDB sessions, JWT auth with token-blacklist logout, and email notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+      </p>
+    </td>
     <td width="50%">
       <h3>🔐 <a href="https://github.com/thakur-027/cpp-auth-system">C++ Auth System</a></h3>
       <p>Lightweight console-based authentication system with user registration, login, password change, and secure hashing — all backed by CSV storage.</p>
