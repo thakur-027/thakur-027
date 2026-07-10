@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Thakur&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Development%20%7C%20DSA%20%7C%20ECE%20Undergrad&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:334155&height=160&section=header&text=Ayush%20Thakur&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Development%20%7C%20DSA%20%7C%20ECE%20Undergrad&descAlignY=70&descSize=16&descColor=cbd5e1" width="100%"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-thakur015)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e293b?style=flat-square&logo=googlechrome&logoColor=white)](https://ayush-thakur-one.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white)](https://github.com/thakur-027)
+[![X](https://img.shields.io/badge/X-1e293b?style=flat-square&logo=x&logoColor=white)](https://x.com/thakur_015)
 
 </div>
 
@@ -8,11 +15,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **ECE Undergrad** at Sir MVIT, Bengaluru - CGPA **8.3**
-- 📱 **Android Developer**  Kotlin, Jetpack Compose, MVVM, Firebase
+- 🎓 **ECE Undergrad** at Sir MVIT, Bengaluru — CGPA **8.3**
+- 📱 **Android Developer** — Kotlin, Jetpack Compose, MVVM, Firebase
 - 🧠 Certified in **Generative AI** (Microsoft) & **Android Development Using Kotlin** (Udemy)
-- 🚀 **E-Cell SMVIT** - Corporate Relations Co-Head, Startup Mela Organizer
-- 🌐 Portfolio: [thakur-027.github.io](https://ayush-thakur-one.vercel.app/)
+- 🚀 **E-Cell SMVIT** — Corporate Relations Co-Head, Startup Mela Organizer
+- 🌐 Portfolio: [ayush-thakur-one.vercel.app](https://ayush-thakur-one.vercel.app/)
 
 ---
 
@@ -120,11 +127,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-thakur015)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayush-thakur-one.vercel.app/)
-[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thakur_015)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush.thakur.015)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thakur-027)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-thakur015)
+[![Portfolio](https://img.shields.io/badge/Portfolio-334155?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayush-thakur-one.vercel.app/)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-1e293b?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thakur_015)
+[![Instagram](https://img.shields.io/badge/Instagram-334155?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ayush.thakur.015)
+[![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thakur-027)
 
 </div>
 
@@ -132,7 +139,14 @@
 
 <div align="center">
 
+*Thanks for stopping by — always open to interesting projects and collaborations.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:334155&height=100&section=footer" width="100%"/>
 
 </div>
