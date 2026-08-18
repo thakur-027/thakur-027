@@ -15,8 +15,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **ECE Undergrad** at Sir MVIT, Bengaluru — CGPA **8.3**
-- 📱 **Android Developer** — Kotlin, Jetpack Compose, MVVM, Firebase
+- 🎓 **ECE Undergrad** at Sir MVIT, Bengaluru — CGPA **8.4**
+- 📱 **Android and Full Stack Developer** — Kotlin, Jetpack Compose, MVVM, Firebase, MERN
 - 🧠 Certified in **Generative AI** (Microsoft) & **Android Development Using Kotlin** (Udemy)
 - 🚀 **E-Cell SMVIT** — Corporate Relations Co-Head, Startup Mela Organizer
 - 🌐 Portfolio: [ayush-thakur-one.vercel.app](https://ayush-thakur-one.vercel.app/)
@@ -139,7 +139,7 @@
 
 <div align="center">
 
-*Thanks for stopping by — always open to interesting projects and collaborations.*
+*Thanks for stopping by - always open to interesting projects and collaborations.*
 
 </div>
 
